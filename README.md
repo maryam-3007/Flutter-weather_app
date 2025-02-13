@@ -1,7 +1,7 @@
-# weather_app
+# Weather-App
 
 Weather App - Flutter
-🌤 This is a feature-rich weather app built with Flutter that provides real-time weather updates. The app uses GetX for state management and integrates with a weather API to fetch the current weather data, along with a 3-hourly forecast and a 5-day forecast. Users can view the current temperature, humidity, wind speed, and other weather details for their location.
+🌤 This is a feature-rich weather app built with Flutter that provides real-time weather updates. The app uses GetX for state management and integrates with a weather API to fetch the current weather data, along with a 3-hourly forecast and a 5-day forecast. Users can view the current temperature, wind speed and other weather details for their location.
 
 Features:
 
